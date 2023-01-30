@@ -5,7 +5,7 @@ function Profile() {
                 <div className="profile__body">
                     {/* ///// */}
                     <div className="profile__item">
-                        <h1>PROFILE</h1>
+                        <h1>PROFIsadasdLE</h1>
                     </div>
                     {/* /// */}
                 </div>
